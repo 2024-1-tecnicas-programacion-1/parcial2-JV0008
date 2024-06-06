@@ -9,9 +9,14 @@ public class Motocicleta extends Vehiculo{
         
     }
     
-     public TipoMotocicleta getTipoMotocicleta(){
+    public TipoMotocicleta setTipoMotocicleta(){
      
         return (tipoMotocicleta);
+    }
+    
+     public TipoMotocicleta getTipoMotocicleta(){
+     
+        return (setTipoMotocicleta());
     }
     
     @Override
