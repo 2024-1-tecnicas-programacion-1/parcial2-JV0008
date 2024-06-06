@@ -7,8 +7,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class VehiculoTest {
-    // TODO: Descomenta el siguiente código una vez hayas completado la clase Vehiculo
-    /**
+   
     private Vehiculo vehiculo;
 
     @BeforeEach
